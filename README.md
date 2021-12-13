@@ -4,8 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-efrengaribaldi-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efrengaribaldi/)](https://www.linkedin.com/in/efrengaribaldi/)
 [![GitHub Badge](https://img.shields.io/badge/-Lars17S-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Lars17S/)](https://github.com/Lars17S/)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lars17S&exclude_repo=RedisAppTwitter,dfa-project&theme=dark&layout=compact&icon_color=007bff&bg_color=171c28)
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lars17S&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 **Lars17S/Lars17S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
