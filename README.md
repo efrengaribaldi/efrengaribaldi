@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-efren.garibaldi@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efren.garibaldi@gmail.com)](mailto:efren.garibaldi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-efrengaribaldi-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efrengaribaldi/)](https://www.linkedin.com/in/efrengaribaldi/)
-[![GitHub Badge](https://img.shields.io/badge/-Lars17S-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Lars17S/)](https://github.com/Lars17S/)
+[![GitHub Badge](https://img.shields.io/badge/-efrengaribaldi-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/efrengaribaldi/)](https://github.com/efrengaribaldi/)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,8 +30,8 @@
 ![Spark SQL](https://img.shields.io/badge/spark%20sql-%23E25A1C.svg?&style=for-the-badge&logo=apache%20spark&logoColor=white)
 
 :star: Here are some projects that I've done or participated:
-- [Interlinked Webapp](https://github.com/Lars17S/interlinked-webapp)
-- [Netflix Webapp](https://github.com/Lars17S/netflix-webapp)
+- [Interlinked Webapp](https://github.com/efrengaribaldi/interlinked-webapp)
+- [Netflix Webapp](https://github.com/efrengaribaldi/netflix-webapp)
 - [Galene iOS App](https://github.com/SebasRod23/GaleneApp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lars17S&exclude_repo=RedisAppTwitter,dfa-project&theme=dark&layout=compact&icon_color=007bff&bg_color=171c28&custom_title=Top%20Languages%20Used%20By%20Repos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrengaribaldi&exclude_repo=RedisAppTwitter,dfa-project&theme=dark&layout=compact&icon_color=007bff&bg_color=171c28&custom_title=Top%20Languages%20Used%20By%20Repos)
